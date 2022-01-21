@@ -3,9 +3,9 @@ html {
     font-size: medium;
 }
 
-form {
-    width: 20%;
+input {
+    width: 70%;
     border: 1px solid #00c900;
-    margin: 22% auto;
+    margin: 1% auto;
     border-radius: 12px;
 }
