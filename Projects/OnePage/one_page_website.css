@@ -1,0 +1,11 @@
+html {
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+form {
+    width: 20%;
+    border: 1px solid #00c900;
+    margin: 22% auto;
+    border-radius: 12px;
+}
